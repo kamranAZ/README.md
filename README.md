@@ -57,4 +57,4 @@
 [website]: https://github.com/kamranAZ
 [facebook]: https://www.facebook.com/dearzade
 [instagram]: https://www.instagram.com/theazizzadeh/?igshid=bmsj4nlx62dn
-[linkedin]: https://www.linkedin.com/in/vagif-ibrahimov-895699143/
+[linkedin]: https://www.linkedin.com/in/kamran-əzizzade-8220441a1
